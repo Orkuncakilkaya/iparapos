@@ -1,0 +1,7 @@
+/vendor
+tests/.env
+composer.lock
+.idea
+.env
+.phpunit.result.cache
+*.log
